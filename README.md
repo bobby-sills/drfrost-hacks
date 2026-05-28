@@ -1,4 +1,4 @@
-# dfm-bookmarklets
+# drfrost-hacks
 
 Make a bookmark. Paste the contents of `dfm-bookmarklet.min.js` (or `dfm-autoloop.min.js`) as the URL. Open a `do-question.php?aaid=...` page on drfrost.org and click the bookmark.
 
